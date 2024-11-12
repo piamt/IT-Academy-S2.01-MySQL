@@ -132,5 +132,6 @@ Un usuari/ària pot marcar un comentari com m'agrada o no m'agrada. Caldrà port
 
 ## Tecnologies Utilitzades
 
-MySQL
+MySQL  
+
 MySQL Workbench
