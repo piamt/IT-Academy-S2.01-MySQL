@@ -130,7 +130,7 @@ Un usuari/ària pot escriure comentaris en un vídeo determinat. Cada comentari 
 Un usuari/ària pot marcar un comentari com m'agrada o no m'agrada. Caldrà portar un registre dels usuaris/es que han marcat un comentari com m'agrada/no m'agrada, i en quina data/hora ho van fer.
 
 
-### Tecnologies Utilitzades
+## Tecnologies Utilitzades
 
 MySQL
 MySQL Workbench
